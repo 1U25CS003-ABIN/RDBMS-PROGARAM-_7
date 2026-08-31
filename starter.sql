@@ -1,5 +1,5 @@
-create database college12;
-use college12;
+create database aim21;
+use aim21;
 
 create table marksheet(RollNo integer(5) primary key,Name varchar(20),Department varchar(10),marks integer(5));
 desc marksheet;
